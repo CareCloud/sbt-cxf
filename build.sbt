@@ -12,7 +12,7 @@ licenses += ("Apache-2.0", url("http://www.apache.org/licenses/LICENSE-2.0.html"
 
 githubOwner := ghOwner
 
-githubRepository := "sbt-cfx"
+githubRepository := "sbt-cxf"
 
 githubTokenSource := TokenSource.Environment("GITHUB_TOKEN") || TokenSource.GitConfig("github.token")
 
