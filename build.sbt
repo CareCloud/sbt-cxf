@@ -1,4 +1,5 @@
-//sbtPlugin := true
+sbtPlugin := true
+
 enablePlugins(SbtPlugin)
 val ghOwner = "CareCloud"
 
