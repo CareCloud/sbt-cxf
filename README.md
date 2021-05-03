@@ -1,6 +1,6 @@
 # A SBT plugin for CXF to generate java sources from WSDL using WSDL2Java 
 
-![PR Event](https://github.com/CareCloud/sbt-cxf/workflows/publish/badge.svg)
+![CI/CD](https://github.com/CareCloud/sbt-cxf/actions/workflows/publish.yml/badge.svg)
 
 Installation
 ------------
